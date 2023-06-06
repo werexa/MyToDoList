@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_task_title">Task</string>
+    <string name="no_desc_msg">"aaa"</string>
+    <string name="circle_drawable">circle_drawable_orange</string>
+    <string name="low">LOW</string>
+    <string name="high">HIGH</string>
+</resources>
